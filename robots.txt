@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linked-hotnews.github.io/berita-viral-2025/sitemap.xml
